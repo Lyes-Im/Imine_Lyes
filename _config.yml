@@ -1,66 +1,8 @@
-# ------------------------------------------------------------
-#   Configuration GitHub Pages / Jekyll – Portfolio IA / Data
-# ------------------------------------------------------------
+title: "Imine Belaid Lyes"
+#logo: img/nny.jpg
+description: "Portfolio Data Enginee"
+show_downloads: true
+theme: jekyll-theme-cayman
+lang: fr
 
-# ====== Infos générales ======
-title: "Belaid Lyes IMINE"
-description: " Data Engineer"
-url: "https://github.com/Lyes-Im"
-baseurl: ""  
-
-author:
-  name: "Belaid Lyes IMINE"
-  email: "iminebelaidlyes10@gmail.com"
-  linkedin: "https://www.linkedin.com/in/belaid-lyes-imine-98b836283/"
-
-# ====== Choix du thème ======
-theme: jekyll-theme-midnight
-
-
-# Quelques thèmes possibles :
-#  - jekyll-theme-cayman
-#  - jekyll-theme-slate
-#  - jekyll-theme-midnight
-#  - jekyll-theme-minimal
-#  - jekyll-theme-modernist
-
-# ====== Options de mise en forme ======
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  toc_levels: 1..3
-
-# ====== Navigation personnalisée ======
-# Ajoute un menu en haut de ton site
-navbar:
-  - name: "Accueil"
-    link: "/"
-  - name: "Projets"
-    link: "/projects"
-  - name: "Compétences"
-    link: "/skills"
-  - name: "CV"
-    link: "/cv"
-  - name: "Contact"
-    link: "/contact"
-
-# ====== Boutons sociaux ======
-social_links:
-  github: "https://github.com/ton-username"
-  linkedin: "https://www.linkedin.com/in/belaid-lyes-imine-98b836283/"
-  email: "mailto:iminebelaidlyes10@gmail.com"
-
-# ====== Build ======
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# ====== SEO ======
-seo:
-  type: "Person"
-  name: "Belaid Lyes IMINE"
-  description: "Étudiant en Master IA spécialisé Big Data, Vision, LLM & Data Engineering"
 
