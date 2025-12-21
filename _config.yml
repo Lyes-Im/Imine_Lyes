@@ -16,9 +16,7 @@ author:
 # ====== Choix du thème ======
 #theme: jekyll-theme-cayman
 
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-architect
 # Quelques thèmes possibles :
 #  - jekyll-theme-cayman
 #  - jekyll-theme-slate
