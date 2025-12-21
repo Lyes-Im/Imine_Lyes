@@ -1,8 +1,13 @@
-title: "Imine Belaid Lyes"
+#title: "Imine Belaid Lyes"
 #logo: img/nny.jpg
-description: "Portfolio Data Enginee"
+#description: "Portfolio Data Engineer"
 show_downloads: true
-theme: jekyll-theme-cayman
+
+remote_theme: pages-themes/midnight@v0.2.0
+
+plugins:
+- jekyll-remote-theme 
+
 lang: fr
 
 
