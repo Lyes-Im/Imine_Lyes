@@ -1,7 +1,5 @@
 
----
-layout: default
----
+
 
 # 👋 Salut, moi c’est **Belaid Lyes IMINE**
 
