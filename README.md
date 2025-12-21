@@ -1,7 +1,7 @@
-
 ---
 layout: default
 ---
+
 # 👋 Salut, moi c’est **Belaid Lyes IMINE**
 
 🎓 Étudiant en **Master 2 Ingénierie en Intelligence Artificielle** – Paris 8  
@@ -115,7 +115,6 @@ Assistant intelligent pour l’analyse de décisions judiciaires : extraction co
 📧 **iminebelaidlyes10@gmail.com**  
 🔗 **LinkedIn :** [Belaid Lyes IMINE](https://www.linkedin.com/in/belaid-lyes-imine-98b836283/)
 
---
 
 
 
