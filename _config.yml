@@ -14,9 +14,9 @@ author:
   linkedin: "https://www.linkedin.com/in/belaid-lyes-imine-98b836283/"
 
 # ====== Choix du thème ======
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 
-theme: jekyll-theme-architect
+
 # Quelques thèmes possibles :
 #  - jekyll-theme-cayman
 #  - jekyll-theme-slate
